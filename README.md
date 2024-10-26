@@ -25,67 +25,67 @@ Upon the completion of this course, you will be able to:
 
 - What is meaning
 - Internalism vs. Externalism
-- **Slide**
+- **Slides**
 - **Reading**: Portner (2005) ch1, Schlenkeer (2022) ch1
 
 ### 2. Meaning of Sentences
 
 - Truth conditional hypothesis
 - Truth values
-- **Slide**
+- **Slides**
 - **Reading**: Portner (2005) ch2
 
 ### 3. Compositionality 
 
 - Principle of Compositionality
-- **Slide**
+- **Slides**
 - **Reading**: Portner (2005) ch2
 
 ### 4. Meaning of Compound Sentences
 
 - Propositional Logic
-- **Slide**
+- **Slides**
 - **Reading**: Kearns (2011) ch2
 
 ### 5. Different Types of Sentence Meanings
 
 - Entailment, presupposition, and Scalar implicature
-- **Slide**
+- **Slides**
 - **Reading**: Schlenker (2022) ch11
 
 ### 6. Meaning of Verbs
 
 - Events and states
 - Thematic roles
-- **Slide**
+- **Slides**
 - **Reading** Kearns (2011) ch10 and ch11
 
 ### 7. Tense
 
 - Tense vs. Tenseless
 - Past, Present, and Future
-- **Slide**
+- **Slides**
 - **Reading**: Portner (2005) ch8
 
 ### 8. Definiteness
 
 - Definite descriptions
 - Uniqueness condition
-- **Slide**
+- **Slides**
 - **Reading**: Portner (2005) ch5
 
 ### 9. Quantifiers 
 
 - *every*, *most*, *some*, and *a* 
 - Set relations
-- **Slide**
+- **Slides**
 - **Reading**: Kearns (2011) ch6
 
 ### 10. Basics of Intensionality
 
 - Possible worlds
 - Opaque vs. Transparent readings
-- **Slide**
+- **Slides**
 - **Reading**: Kearns (2011) ch12
 
 ## Reference
