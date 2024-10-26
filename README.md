@@ -98,3 +98,9 @@ Upon the completion of this course, you will be able to:
 
 The introductory course is developed based on my teaching experience across various institutions in Asia and North America. In addition to my own efforts, my teaching assistants from these institutions have made significant contributions to the course design. I’d like to thank them for their invaluable support. 
 
+| Name      | Institution | Year     |
+| :---:        |    :----:   |    :---:      |
+|   Yun Sxin Lai    | Nanyang Technological University, Singapore       | 2024   |
+|  Jun Tamura   | University of California, Santa Cruz  | 2023      |
+| Yaqing Cao | University of California, Santa Cruz | 2023 |  
+
