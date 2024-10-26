@@ -76,3 +76,9 @@ Upon the completion of this course, you will be able to:
 - Set relations
 - **Reading**: Kearns (2011) ch6
 
+## Reference
+
+- Coppock, Liz and Lucas Champollion. 2020. Invitation to Formal Semantics. Cambridge. 
+- Kearns, Kate. 2011. Semantics. Bloomsbury. 
+- Portner, Paul. 2005. What is Meaning? Blackwell. 
+- Schlenker, Phillippe. 2022. What It All Means. MIT Press. 
