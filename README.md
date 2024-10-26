@@ -96,4 +96,5 @@ Upon the completion of this course, you will be able to:
 
 ## Acknowlegement 
 
-The introductory course is designed based on my teaching in various institutions across Asia and North America. Besides me, my teaching assistants from these intitutions have also made a significant contributions to the course design. I'd like to thank them for their help. 
+The introductory course is developed based on my teaching experience across various institutions in Asia and North America. In addition to my own efforts, my teaching assistants from these institutions have made significant contributions to the course design. I’d like to thank them for their invaluable support. 
+
