@@ -92,4 +92,8 @@ Upon the completion of this course, you will be able to:
 
 - Kearns, Kate. 2011. *Semantics*. Bloomsbury. 
 - Portner, Paul. 2005. *What is Meaning?* Blackwell. 
-- Schlenker, Phillippe. 2022. *What It All Means*. MIT Press. 
+- Schlenker, Phillippe. 2022. *What It All Means*. MIT Press.
+
+## Acknowlegement 
+
+The introductory course is designed based on my teaching in various institutions across Asia and North America. Besides me, my teaching assistants from these intitutions have also made a significant contributions to the course design. I'd like to thank them for their help. 
