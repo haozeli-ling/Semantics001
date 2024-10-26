@@ -13,11 +13,11 @@ Topics include truth conditions, reference and sense, theta-roles, tense, quanti
 
 Upon the completion of this course, you will be able to:
 
-1. Define the core ways that meaning is characterized in linguistics and the theories about how the mind constructs meaning;
-2. List and illustrate the types of word-meaning relations, the characterisation of nominal and verbal semantics, and understand how context influences meaning at various levels (collocations, syntactic constructions, utterance and discourse context, etc.);
-3. Apply some of the basic formal tools to analyze language meaning;
-4. Describe how elements of semantics and pragmatics vary across languages; 
-5. Obtain hands-on practice in eliciting linguistic evidence to support a semantic and pragmatic analysis of a given lexical expression.  
+- Define the core ways that meaning is characterized in linguistics and the theories about how the mind constructs meaning;
+- List and illustrate the types of word-meaning relations, the characterisation of nominal and verbal semantics, and understand how context influences meaning at various levels (collocations, syntactic constructions, utterance and discourse context, etc.);
+- Apply some of the basic formal tools to analyze language meaning;
+- Describe how elements of semantics and pragmatics vary across languages; 
+- Obtain hands-on practice in eliciting linguistic evidence to support a semantic and pragmatic analysis of a given lexical expression.  
 
 ## Schedule 
 
@@ -42,7 +42,12 @@ Upon the completion of this course, you will be able to:
 - Principle of Compositionality
 - **Reading**: Portner (2005) ch2
 
-### 4. Meaning of Compound Sentences
+### 5. Meaning of Compound Sentences
 
 - Propositional Logic
 - **Reading**: Kearns (2011) ch2
+
+### 6. Different Types of Sentence Meanings
+
+- Entailment, presupposition, and Scalar implicature
+- **Reading**: Schlenker (2022) ch11
