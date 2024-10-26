@@ -21,60 +21,72 @@ Upon the completion of this course, you will be able to:
 
 ## Schedule 
 
-### 1. Ice-breaking  
-
-- Introduction to the course
-
-### 2. Foundamental question
+### 1. Foundamental question
 
 - What is meaning
 - Internalism vs. Externalism
+- **Slide**
 - **Reading**: Portner (2005) ch1, Schlenkeer (2022) ch1
 
-### 3. Meaning of Sentences
+### 2. Meaning of Sentences
 
 - Truth conditional hypothesis
 - Truth values
+- **Slide**
 - **Reading**: Portner (2005) ch2
 
-### 4. Compositionality 
+### 3. Compositionality 
 
 - Principle of Compositionality
+- **Slide**
 - **Reading**: Portner (2005) ch2
 
-### 5. Meaning of Compound Sentences
+### 4. Meaning of Compound Sentences
 
 - Propositional Logic
+- **Slide**
 - **Reading**: Kearns (2011) ch2
 
-### 6. Different Types of Sentence Meanings
+### 5. Different Types of Sentence Meanings
 
 - Entailment, presupposition, and Scalar implicature
+- **Slide**
 - **Reading**: Schlenker (2022) ch11
 
-### 7. Meaning of Verbs
+### 6. Meaning of Verbs
 
 - Events and states
 - Thematic roles
+- **Slide**
 - **Reading** Kearns (2011) ch10 and ch11
 
-### 8. Tense
+### 7. Tense
 
 - Tense vs. Tenseless
 - Past, Present, and Future
+- **Slide**
 - **Reading**: Portner (2005) ch8
 
-### 9. Definiteness
+### 8. Definiteness
 
 - Definite descriptions
 - Uniqueness condition
+- **Slide**
 - **Reading**: Portner (2005) ch5
 
-### 10. Quantifiers 
+### 9. Quantifiers 
 
 - *every*, *most*, *some*, and *a* 
 - Set relations
+- **Slide**
 - **Reading**: Kearns (2011) ch6
+
+### 10. Basics of Intensionality
+
+- Possible worlds
+- Opaque vs. Transparent readings
+- **Slide**
+- **Reading**: Kearns (2011) ch12
 
 ## Reference
 
