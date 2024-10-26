@@ -25,8 +25,9 @@ Upon the completion of this course, you will be able to:
 
 - Introduction to the course
 
-### 2. Internalism vs. Externalism
+### 2. Foundamental question
 
 - What is meaning
-- Reading: Portner (2005) ch1, Schlenkeer (2022) ch1
+- Internalism vs. Externalism
+- **Reading**: Portner (2005) ch1, Schlenkeer (2022) ch1
   
