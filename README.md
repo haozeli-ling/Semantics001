@@ -21,4 +21,12 @@ Upon the completion of this course, you will be able to:
 
 ## Schedule 
 
-### 1. Introduction 
+### 1. Ice-breaking  
+
+- Introduction to the course
+
+### 2. Internalism vs. Externalism
+
+- What is meaning
+- Reading: Portner (2005) ch1, Schlenkeer (2022) ch1
+  
