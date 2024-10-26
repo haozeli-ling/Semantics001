@@ -1,2 +1,2 @@
-# Semantics001
+# Introductory Semantics
 Course Site
