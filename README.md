@@ -51,3 +51,28 @@ Upon the completion of this course, you will be able to:
 
 - Entailment, presupposition, and Scalar implicature
 - **Reading**: Schlenker (2022) ch11
+
+### 7. Meaning of Verbs
+
+- Events and states
+- Thematic roles
+- **Reading** Kearns (2011) ch10 and ch11
+
+### 8. Tense
+
+- Tense vs. Tenseless
+- Past, Present, and Future
+- **Reading**: Portner (2005) ch8
+
+### 9. Definiteness
+
+- Definite descriptions
+- Uniqueness condition
+- **Reading**: Portner (2005) ch5
+
+### 10. Quantifiers 
+
+- *every*, *most*, *some*, and *a* 
+- Set relations
+- **Reading**: Kearns (2011) ch6
+
