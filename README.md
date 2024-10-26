@@ -19,7 +19,7 @@ Upon the completion of this course, you will be able to:
 - Describe how elements of semantics and pragmatics vary across languages; 
 - Obtain hands-on practice in eliciting linguistic evidence to support a semantic and pragmatic analysis of a given lexical expression.  
 
-## Schedule 
+## Units 
 
 ### 1. Foundamental question
 
