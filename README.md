@@ -30,4 +30,19 @@ Upon the completion of this course, you will be able to:
 - What is meaning
 - Internalism vs. Externalism
 - **Reading**: Portner (2005) ch1, Schlenkeer (2022) ch1
-  
+
+### 3. Meaning of Sentences
+
+- Truth conditional hypothesis
+- Truth values
+- **Reading**: Portner (2005) ch2
+
+### 4. Compositionality 
+
+- Principle of Compositionality
+- **Reading**: Portner (2005) ch2
+
+### 4. Meaning of Compound Sentences
+
+- Propositional Logic
+- **Reading**: Kearns (2011) ch2
