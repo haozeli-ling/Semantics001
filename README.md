@@ -21,9 +21,12 @@ Upon the completion of this course, you will be able to:
 
 ## Units 
 
-| Unit                             | Content     | Reading    |
-| :---:                            |    :----:   |    :---:      |
-|   What is meaning                |   internalism, externalism      |  Portner (2005) ch1, Schlenkeer (2022) ch1  |
+| Unit                      | Content                         | Material      |  Reading    |
+| :---:                     |    :----:                       |    :---:      |  :---:      |
+|   What is meaning         |   internalism, externalism      |  slides       |  Portner (2005) ch1, Schlenkeer (2022) ch1  |
+|  Meaning of Sentences     |   truth conditional hypothesis  |  slides       |  Portner (2005) ch2 |
+|  Compositionality         |   principle of compositionality |  slides       |  Portner (2005) ch2 |
+|  Compound Sentences       |   propositional logic           |  slides       |  Kearns (2011) ch2  |
 
 ### 1. Foundamental question
 
