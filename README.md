@@ -27,73 +27,12 @@ Upon the completion of this course, you will be able to:
 |  Meaning of Sentences     |   truth conditional hypothesis  |  slides       |  Portner (2005) ch2 |
 |  Compositionality         |   principle of compositionality |  slides       |  Portner (2005) ch2 |
 |  Compound Sentences       |   propositional logic           |  slides       |  Kearns (2011) ch2  |
-
-### 1. Foundamental question
-
-- What is meaning
-- Internalism vs. Externalism
-- **Slides**
-- **Reading**: Portner (2005) ch1, Schlenkeer (2022) ch1
-
-### 2. Meaning of Sentences
-
-- Truth conditional hypothesis
-- Truth values
-- **Slides**
-- **Reading**: Portner (2005) ch2
-
-### 3. Compositionality 
-
-- Principle of Compositionality
-- **Slides**
-- **Reading**: Portner (2005) ch2
-
-### 4. Meaning of Compound Sentences
-
-- Propositional Logic
-- **Slides**
-- **Reading**: Kearns (2011) ch2
-
-### 5. Different Types of Sentence Meanings
-
-- Entailment, presupposition, and Scalar implicature
-- **Slides**
-- **Reading**: Schlenker (2022) ch11
-
-### 6. Meaning of Verbs
-
-- Events and states
-- Thematic roles
-- **Slides**
-- **Reading** Kearns (2011) ch10 and ch11
-
-### 7. Tense
-
-- Tense vs. Tenseless
-- Past, Present, and Future
-- **Slides**
-- **Reading**: Portner (2005) ch8
-
-### 8. Definiteness
-
-- Definite descriptions
-- Uniqueness condition
-- **Slides**
-- **Reading**: Portner (2005) ch5
-
-### 9. Quantifiers 
-
-- *every*, *most*, *some*, and *a* 
-- Set relations
-- **Slides**
-- **Reading**: Kearns (2011) ch6
-
-### 10. Basics of Intensionality
-
-- Possible worlds
-- Opaque vs. Transparent readings
-- **Slides**
-- **Reading**: Kearns (2011) ch12
+|  Types of Sentence Meanings | entailment, presupposition, implicature | slides | Schlenker (2022) ch11 |
+|  Meaning of Verbs         |   events, states, thematic roles |  slides      |  Kearns (2011) ch10 and ch11 |
+|  Tense                    |  past, present, future           |  slides      |  Portner (2005) ch8 |
+|  Definiteness             |  definite description, uniqueness | slides      |  Portner (2005) ch5 |
+|  Quantifiers              |  *every*, *most*, *some*, *a*    | slides       |  Kearns (2011) ch6  |
+|  Basics of Intensionality |  possible worlds                 | slides       |  Kearns (2011) ch12 |
 
 ## Reference
 
