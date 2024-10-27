@@ -21,6 +21,10 @@ Upon the completion of this course, you will be able to:
 
 ## Units 
 
+| Unit                             | Content     | Reading    |
+| :---:                            |    :----:   |    :---:      |
+|   What is meaning                |   internalism, externalism      |  Portner (2005) ch1, Schlenkeer (2022) ch1  |
+
 ### 1. Foundamental question
 
 - What is meaning
