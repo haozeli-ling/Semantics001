@@ -26,11 +26,11 @@ Upon the completion of this course, you will be able to:
 |   What is meaning         |   internalism, externalism      |  [slides](https://docs.google.com/presentation/d/1oabkL4Nb2uQ8i1dtSadN3mm0n43U1LiNCQNWBB7sB04/edit?usp=sharing)       |  Portner (2005) ch1, Schlenkeer (2022) ch1  |
 |  Meaning of Sentences     |   truth conditional hypothesis  |  [slides](https://docs.google.com/presentation/d/1tvEQZtHEi4fEJo-LetcoCL-hx0EpUPV5fFbcV1GSVzc/edit?usp=sharing)       |  Portner (2005) ch2 |
 |  Compositionality         |   principle of compositionality |  [slides](https://docs.google.com/presentation/d/1CAGQg9UlaKhnuBYyolt331h1kutVrsYiXP2tb36Qqew/edit?usp=sharing)       |  Portner (2005) ch2 |
-|  Compound Sentences       |   propositional logic           |  slides       |  Kearns (2011) ch2  |
-|  Types of Sentence Meanings | entailment, presupposition, implicature | slides | Schlenker (2022) ch11 |
-|  Meaning of Verbs         |   events, states, thematic roles |  slides      |  Kearns (2011) ch10 and ch11 |
-|  Tense                    |  past, present, future           |  slides      |  Portner (2005) ch8 |
-|  Definiteness             |  definite description, uniqueness | slides      |  Portner (2005) ch5 |
+|  Compound Sentences       |   propositional logic           |  [slides](https://docs.google.com/presentation/d/1uwGSbLmqeyJ9oaGddWpKu19geEsYDzhiIclZ4-t3XtI/edit?usp=sharing)       |  Kearns (2011) ch2  |
+|  Types of Sentence Meanings | entailment, presupposition, implicature | [slides](https://docs.google.com/presentation/d/1V4JGBQc29CHZguFQlWQjChS4h6s7i9LzpW5JyU8_V20/edit?usp=sharing) | Schlenker (2022) ch11 |
+|  Meaning of Verbs         |   events, states, thematic roles |  [slides](https://docs.google.com/presentation/d/1Trg7REHMDK-vkJBikmSManB0cl0Dh6-phc1InC-DjDs/edit?usp=sharing)      |  Kearns (2011) ch10 and ch11 |
+|  Tense                    |  past, present, future           |  [slides](https://docs.google.com/presentation/d/1E96Rvy1dWrWbdWh_S34XlmcURxm5E9ziGmJlia2wnbs/edit?usp=sharing)      |  Portner (2005) ch8 |
+|  Definiteness             |  definite description, uniqueness | [slides](https://docs.google.com/presentation/d/1PCoHWJul5O2_l1y4x6Lg_AB4L4Ab7kWdEDKy5zBJJHw/edit?usp=sharing)      |  Portner (2005) ch5 |
 |  Quantifiers              |  *every*, *most*, *some*, *a*    | slides       |  Kearns (2011) ch6  |
 |  Basics of Intensionality |  possible worlds                 | slides       |  Kearns (2011) ch12 |
 
