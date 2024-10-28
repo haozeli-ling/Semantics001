@@ -24,8 +24,8 @@ Upon the completion of this course, you will be able to:
 | Unit                      | Content                         | Material      |  Reading    |
 | :---:                     |    :----:                       |    :---:      |  :---:      |
 |   What is meaning         |   internalism, externalism      |  [slides](https://docs.google.com/presentation/d/1oabkL4Nb2uQ8i1dtSadN3mm0n43U1LiNCQNWBB7sB04/edit?usp=sharing)       |  Portner (2005) ch1, Schlenkeer (2022) ch1  |
-|  Meaning of Sentences     |   truth conditional hypothesis  |  slides       |  Portner (2005) ch2 |
-|  Compositionality         |   principle of compositionality |  slides       |  Portner (2005) ch2 |
+|  Meaning of Sentences     |   truth conditional hypothesis  |  [slides](https://docs.google.com/presentation/d/1tvEQZtHEi4fEJo-LetcoCL-hx0EpUPV5fFbcV1GSVzc/edit?usp=sharing)       |  Portner (2005) ch2 |
+|  Compositionality         |   principle of compositionality |  [slides](https://docs.google.com/presentation/d/1CAGQg9UlaKhnuBYyolt331h1kutVrsYiXP2tb36Qqew/edit?usp=sharing)       |  Portner (2005) ch2 |
 |  Compound Sentences       |   propositional logic           |  slides       |  Kearns (2011) ch2  |
 |  Types of Sentence Meanings | entailment, presupposition, implicature | slides | Schlenker (2022) ch11 |
 |  Meaning of Verbs         |   events, states, thematic roles |  slides      |  Kearns (2011) ch10 and ch11 |
