@@ -23,7 +23,7 @@ Upon the completion of this course, you will be able to:
 
 | Unit                      | Content                         | Material      |  Reading    |
 | :---:                     |    :----:                       |    :---:      |  :---:      |
-|   What is meaning         |   internalism, externalism      |  slides       |  Portner (2005) ch1, Schlenkeer (2022) ch1  |
+|   What is meaning         |   internalism, externalism      |  [slides](https://docs.google.com/presentation/d/1oabkL4Nb2uQ8i1dtSadN3mm0n43U1LiNCQNWBB7sB04/edit?usp=sharing)       |  Portner (2005) ch1, Schlenkeer (2022) ch1  |
 |  Meaning of Sentences     |   truth conditional hypothesis  |  slides       |  Portner (2005) ch2 |
 |  Compositionality         |   principle of compositionality |  slides       |  Portner (2005) ch2 |
 |  Compound Sentences       |   propositional logic           |  slides       |  Kearns (2011) ch2  |
