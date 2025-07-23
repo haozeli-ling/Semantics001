@@ -67,3 +67,57 @@ The introductory course is developed based on my teaching experience across vari
 |  Jun Tamura   | University of California, Santa Cruz  | 2023      |
 | Yaqing Cao | University of California, Santa Cruz | 2023 |  
 
+
+
+
+
+
+Here's a revised, fun and engaging course schedule:
+
+---
+
+🎉 **Welcome Aboard the Semantics Express!** 🚀
+**Exploring Meaning and Beyond**
+
+---
+
+## 🌟 **Warm-Up: Getting Curious!**
+
+|           Adventure          |                What We'll Discover                |         Goodies         |           Reading Adventures 📚          |
+| :--------------------------: | :-----------------------------------------------: | :---------------------: | :--------------------------------------: |
+| 🧪 Science meets Linguistics |    Logistics & the magic of scientific thinking   | ✨ Bring your questions! |                     —                    |
+|  💡 What Even is "Meaning"?  | Mind-bending debates: internalism vs. externalism |    🧠 Open your mind!   | Portner (2005) ch1, Schlenker (2022) ch1 |
+
+---
+
+## 📖 **Semantics Safari 🦁: The Quest for Truth and Meaning**
+
+|            Adventure           |          What We'll Discover          |         Goodies         |   Reading Adventures 📚  |
+| :----------------------------: | :-----------------------------------: | :---------------------: | :----------------------: |
+|      🕵️ Truth Detectives      | Uncovering when sentences speak truth | 🔍 Detective hats ready |    Portner (2005) ch2    |
+|      🌍 Modeling Our World     |       How nouns paint situations      |   🗺️ Bring your maps!  |    Portner (2005) ch2    |
+| 🖊️ Verbs: Essay Writers' Club |  Events, states & roles in sentences  | 📖 Pen & notebook time! | Kearns (2011) ch10, ch11 |
+|        ⏳ Tense Travelers       |   Navigating past, present & future   | 🕰️ Time-travel goggles | Kearns (2011) ch10, ch11 |
+|       🎲 Quantifier Quest      |    Every, Most, Some—Logic made fun   |  🎲 Math & logic magic! |     Kearns (2011) ch6    |
+|        🧱 Lego Language        |      Building meaning from pieces     |     🧱 Let's build!     |    Portner (2005) ch2    |
+
+---
+
+## 🗣️ **Pragmatics Playground 🤹: The Art of Saying More**
+
+|            Adventure           |            What We'll Discover            |            Goodies           | Reading Adventures 📚 |
+| :----------------------------: | :---------------------------------------: | :--------------------------: | :-------------------: |
+|     🔗 Complex Connections     | Logic games with *and*, *or*, *if*, *not* | 🤔 Bring your logic puzzles! |   Kearns (2011) ch2   |
+|      🍀 Taken for Granted      |    The hidden world of presuppositions    |    🙈 Uncover assumptions!   | Schlenker (2022) ch11 |
+|  🎭 Meanings Between the Lines |          Secrets of implicatures          |  🕶️ Decode hidden meanings  | Schlenker (2022) ch11 |
+| 🎮 Language: The Ultimate Game |        Playing rational speech acts       |        🎲 Let's play!        |           —           |
+
+---
+
+🗓️ **Gear up for a semester of semantic discoveries, pragmatic play, and linguistic adventures!** 🗺️🥳
+
+
+
+
+
+
