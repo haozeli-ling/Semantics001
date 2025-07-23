@@ -65,7 +65,8 @@ The introductory course is developed based on my teaching experience across vari
 
 | Name      | Institution | Year     |
 | :---:        |    :----:   |    :---:      |
-|   Yun Sxin Lai    | Nanyang Technological University, Singapore       | 2024   |
+| Shiyu Zhang  |  Nanyang Technological University, Singapore       | 2025   |
+|   Yun Sxin Lai    | Nanyang Technological University, Singapore       | 2024, 2025   |
 |  Andrew Kato   | University of California, Santa Cruz  | 2023      |
 |  Jun Tamura   | University of California, Santa Cruz  | 2023      |
 | Yaqing Cao | University of California, Santa Cruz | 2023 |  
