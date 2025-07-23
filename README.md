@@ -21,7 +21,7 @@ Upon the completion of this course, you will be able to:
 
 ## Course Schedule  
 
-## 🌟 **Warm-Up: Getting Curious!**
+🌟 **Warm-Up: Getting Curious!**
 
 |           Adventure          |                What We'll Discover                |         Goodies         |           Reading Adventures 📚          |
 | :--------------------------: | :-----------------------------------------------: | :---------------------: | :--------------------------------------: |
@@ -30,7 +30,7 @@ Upon the completion of this course, you will be able to:
 
 ---
 
-## 📖 **Semantics Safari 🦁: The Quest for Truth and Meaning**
+📖 **Semantics Safari 🦁: The Quest for Truth and Meaning**
 
 |            Adventure           |          What We'll Discover          |         Goodies         |   Reading Adventures 📚  |
 | :----------------------------: | :-----------------------------------: | :---------------------: | :----------------------: |
@@ -43,7 +43,7 @@ Upon the completion of this course, you will be able to:
 
 ---
 
-## 🗣️ **Pragmatics Playground 🤹: The Art of Saying More**
+🗣️ **Pragmatics Playground 🤹: The Art of Saying More**
 
 |            Adventure           |            What We'll Discover            |            Goodies           | Reading Adventures 📚 |
 | :----------------------------: | :---------------------------------------: | :--------------------------: | :-------------------: |
