@@ -21,7 +21,7 @@ Upon the completion of this course, you will be able to:
 
 ## Course Schedule  
 
-🌟 **Warm-Up: Getting Curious!**
+**Warm-Up: Getting Curious!**
 
 |           Adventure          |                What We'll Discover                |         Goodies         |           Reading Adventures 📚          |
 | :--------------------------: | :-----------------------------------------------: | :---------------------: | :--------------------------------------: |
@@ -30,27 +30,27 @@ Upon the completion of this course, you will be able to:
 
 ---
 
-📖 **Semantics Safari 🦁: The Quest for Truth and Meaning**
+**Semantics Safari: The Quest for Truth and Meaning**
 
 |            Adventure           |          What We'll Discover          |         Goodies         |   Reading Adventures 📚  |
 | :----------------------------: | :-----------------------------------: | :---------------------: | :----------------------: |
 |      🕵️ Truth Detectives      | Uncovering when sentences speak truth | 🔍 Detective hats ready |    Portner (2005) ch2    |
 |      🌍 Modeling Our World     |       How nouns paint situations      |   🗺️ Bring your maps!  |    Portner (2005) ch2    |
 | 🖊️ Verbs: Essay Writers' Club |  Events, states & roles in sentences  | 📖 Pen & notebook time! | Kearns (2011) ch10, ch11 |
-|        ⏳ Tense Travelers       |   Navigating past, present & future   | 🕰️ Time-travel goggles | Kearns (2011) ch10, ch11 |
+|        ⏳ Time Travelers       |   Navigating past, present & future   | 🕰️ Time-travel goggles | Kearns (2011) ch10, ch11 |
 |       🎲 Quantifier Quest      |    Every, Most, Some—Logic made fun   |  🎲 Math & logic magic! |     Kearns (2011) ch6    |
-|        🧱 Lego Language        |      Building meaning from pieces     |     🧱 Let's build!     |    Portner (2005) ch2    |
+|        🧱 The Lego of Language        |      Building meaning from pieces     |     🧱 Let's build!     |    Portner (2005) ch2    |
 
 ---
 
-🗣️ **Pragmatics Playground 🤹: The Art of Saying More**
+**Pragmatics Playground: The Art of Saying More**
 
 |            Adventure           |            What We'll Discover            |            Goodies           | Reading Adventures 📚 |
 | :----------------------------: | :---------------------------------------: | :--------------------------: | :-------------------: |
 |     🔗 Complex Connections     | Logic games with *and*, *or*, *if*, *not* | 🤔 Bring your logic puzzles! |   Kearns (2011) ch2   |
-|      🍀 Taken for Granted      |    The hidden world of presuppositions    |    🙈 Uncover assumptions!   | Schlenker (2022) ch11 |
-|  🎭 Meanings Between the Lines |          Secrets of implicatures          |  🕶️ Decode hidden meanings  | Schlenker (2022) ch11 |
-| 🎮 Language: The Ultimate Game |        Playing rational speech acts       |        🎲 Let's play!        |           —           |
+|      🍀 What is already assumed      |    The hidden world of presuppositions    |    🙈 Uncover assumptions!   | Schlenker (2022) ch11 |
+|  🎭 Say more with less |          Secrets of implicatures          |  🕶️ Decode hidden meanings  | Schlenker (2022) ch11 |
+| 🎮 Language Games      |        Guessing what your partner means       |        🎲 Let's play!        |           —           |
 
 
 ## Reference
