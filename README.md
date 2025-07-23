@@ -27,6 +27,7 @@ Upon the completion of this course, you will be able to:
 | :---:                                         |    :----:                             |    :---:       |  :---:      |
 |   Science meets Language                      |   logistics, scientific methodology   |                |             |   
 |   What is meaning                             |   mind vs. world                      |     |  Portner (2005) ch1, Schlenkeer (2022) ch1  |
+| sss  | 
 
 **Semantics**
 
