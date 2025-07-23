@@ -19,67 +19,7 @@ Upon the completion of this course, you will be able to:
 - Describe how elements of semantics and pragmatics vary across languages; 
 - Obtain hands-on practice in eliciting linguistic evidence to support a semantic and pragmatic analysis of a given lexical expression.  
 
-## Let's have some fun decoding the puzzles of meaning  
-
-**Lauching Our Adventure**
-
-| Unit                                          | Content                               | Material       |  Reading    |
-| :---:                                         |    :----:                             |    :---:       |  :---:      |
-|   Science meets Language                      |   logistics, scientific methodology   |                |             |   
-|   What is meaning                             |   mind vs. world                      |     |  Portner (2005) ch1, Schlenkeer (2022) ch1  |
-| **Exploring Semantics**  | 
-|  When can we say somthing true                |   Meaning of sentences            |                   |   Portner (2005) ch2 |
-
-**Semantics**
-
-| Unit                                          | Content                           |   Material        |  Reading    |
-| :---:                                         |    :----:                         |    :---:          |  :---:      |
-|  When can we say somthing true                |   Meaning of sentences            |                   |   Portner (2005) ch2 |
-|  Modeling our world                           |   Meaning of nouns                |                   |   Portner (2005) ch2 |
-|  Writing our stories                          |   Meaning of verbs                |                   |   Kearns (2011) ch10 and ch11 | 
-|  Time travelers                               |   Tense                           |                   |   Kearns (2011) ch10 and ch11 |
-|  Let's count and measure                      |   Quantification                  |                   |   Kearns (2011) ch6  |
-|  The Lego of Language                         |   Compositionality                |                   |   Portner (2005) ch2 |
-
-**Pragmatics**
-
-| Unit                                          | Content                           | Material          |  Reading    |
-| :---:                                         |    :----:                         |    :---:          |  :---:      |
-|  Logic fun                                    |   *and*, *or*, *if*, *not*        |                   |  Kearns (2011) ch2  |
-|  What is already assumed                      |   presuppositions                 |                   |  Schlenker (2022) ch11 |
-|  Say more with less                           |   implicatures                    |                   |  Schlenker (2022) ch11 |
-|  Language games                               |   rational speech acts            |                   |                        |
-
-## Reference
-
-- Kearns, Kate. 2011. *Semantics*. Bloomsbury. 
-- Portner, Paul. 2005. *What is Meaning?* Blackwell. 
-- Schlenker, Phillippe. 2022. *What It All Means*. MIT Press.
-
-## Acknowlegement 
-
-The introductory course is developed based on my teaching experience across various institutions in Asia and North America. In addition to my own efforts, my teaching assistants from these institutions have made significant contributions to the course design. I’d like to thank them for their invaluable support. 
-
-| Name      | Institution | Year     |
-| :---:        |    :----:   |    :---:      |
-|   Yun Sxin Lai    | Nanyang Technological University, Singapore       | 2024   |
-|  Andrew Kato   | University of California, Santa Cruz  | 2023      |
-|  Jun Tamura   | University of California, Santa Cruz  | 2023      |
-| Yaqing Cao | University of California, Santa Cruz | 2023 |  
-
-
-
-
-
-
-Here's a revised, fun and engaging course schedule:
-
----
-
-🎉 **Welcome Aboard the Semantics Express!** 🚀
-**Exploring Meaning and Beyond**
-
----
+## Course Schedule  
 
 ## 🌟 **Warm-Up: Getting Curious!**
 
@@ -112,12 +52,20 @@ Here's a revised, fun and engaging course schedule:
 |  🎭 Meanings Between the Lines |          Secrets of implicatures          |  🕶️ Decode hidden meanings  | Schlenker (2022) ch11 |
 | 🎮 Language: The Ultimate Game |        Playing rational speech acts       |        🎲 Let's play!        |           —           |
 
----
 
-🗓️ **Gear up for a semester of semantic discoveries, pragmatic play, and linguistic adventures!** 🗺️🥳
+## Reference
 
+- Kearns, Kate. 2011. *Semantics*. Bloomsbury. 
+- Portner, Paul. 2005. *What is Meaning?* Blackwell. 
+- Schlenker, Phillippe. 2022. *What It All Means*. MIT Press.
 
+## Acknowlegement 
 
+The introductory course is developed based on my teaching experience across various institutions in Asia and North America. In addition to my own efforts, my teaching assistants from these institutions have made significant contributions to the course design. I’d like to thank them for their invaluable support. 
 
-
-
+| Name      | Institution | Year     |
+| :---:        |    :----:   |    :---:      |
+|   Yun Sxin Lai    | Nanyang Technological University, Singapore       | 2024   |
+|  Andrew Kato   | University of California, Santa Cruz  | 2023      |
+|  Jun Tamura   | University of California, Santa Cruz  | 2023      |
+| Yaqing Cao | University of California, Santa Cruz | 2023 |  
