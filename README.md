@@ -35,8 +35,8 @@ Upon the completion of this course, you will be able to:
 |            Adventure           |          What We'll Discover          |         Goodies         |   Reading Adventures 📚  |
 | :----------------------------: | :-----------------------------------: | :---------------------: | :----------------------: |
 |      🕵️ Truth Detectives      | Uncovering when sentences speak truth | 🔍 Detective hats ready |    Portner (2005) ch2    |
-|      🌍 Modeling Our World     |       How nouns paint situations      |   🗺️ Bring your maps!  |    Portner (2005) ch2    |
-| 🖊️ Verbs: Essay Writers' Club |  Events, states & roles in sentences  | 📖 Pen & notebook time! | Kearns (2011) ch10, ch11 |
+|      🌍 Modeling Our World     |       How nouns paint situations      |   🗺️ Draw pictures!  |    Portner (2005) ch2    |
+| 🖊️ Verbs: Essay Writers' Club |  Events, states & roles in sentences  | 📖 Writing stories! | Kearns (2011) ch10, ch11 |
 |        ⏳ Time Travelers       |   Navigating past, present & future   | 🕰️ Time-travel goggles | Kearns (2011) ch10, ch11 |
 |       🎲 Quantifier Quest      |    Every, Most, Some—Logic made fun   |  🎲 Math & logic magic! |     Kearns (2011) ch6    |
 |        🧱 The Lego of Language        |      Building meaning from pieces     |     🧱 Let's build!     |    Portner (2005) ch2    |
